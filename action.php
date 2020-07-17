@@ -1,6 +1,6 @@
 <?php
 /* Attempt MySQL server connection */
-$link = mysqli_connect("us-cdbr-east-02.cleardb.com", "heroku_9b5821b3fd92857", "80bf61dc", "b9b673a811d170");
+$link = mysqli_connect("us-cdbr-east-02.cleardb.com", "b9b673a811d170", "80bf61dc", "heroku_9b5821b3fd92857");
 
 // Check connection
 if($link === false){
