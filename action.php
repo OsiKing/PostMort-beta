@@ -1,7 +1,7 @@
 <?php
 /* Attempt MySQL server connection */
-$link = mysqli_connect("localhost", "new", "", "new");
- 
+$link = mysqli_connect("us-cdbr-east-02.cleardb.com", "heroku_9b5821b3fd92857", "80bf61dc", "b9b673a811d170");
+
 // Check connection
 if($link === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());
