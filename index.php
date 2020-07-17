@@ -74,7 +74,7 @@
                             2    
                         </strong>
                     </span>
-                    <p>Create an accunt and inout your License number to get access</p>
+                    <p>Create an accunt and input your License number to get access</p>
                  </div>
               </div>
               <div class="col-md-6">
